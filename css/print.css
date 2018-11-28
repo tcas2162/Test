@@ -1,0 +1,17 @@
+@media print{
+    .device figure img { display:none;}
+   .blockhd a img { display:none;}
+   .block_cnt figure img { display:none;}
+   .personas ul li a img { display:none;}
+   .stories figure img { display:none;}
+	.flowchart figure img{ display:none;}
+   .roboto figure img { display:none;}
+   .frames ul li a img { display:none;}  
+   .sc_nt ul li a img { display:none;}
+	.enlarge ul li a img { display:none;}
+	.wire ul li a img{ display:none;}
+	.meals ul li a img { display:none;} 
+	.location_in ul li a img { display:none;}
+	.about_view figure img { display:none;}
+	.tim a img { display:none;}
+}
